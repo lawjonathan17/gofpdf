@@ -78,11 +78,11 @@ Installation
 
 To install the package on your system, run
 
-    go get github.com/phpdave11/gofpdf
+    go get github.com/lawjonathan17/gofpdf
 
 Later, to receive updates, run
 
-    go get -u -v github.com/phpdave11/gofpdf/...
+    go get -u -v github.com/lawjonathan17/gofpdf/...
 
 
 Quick Start
